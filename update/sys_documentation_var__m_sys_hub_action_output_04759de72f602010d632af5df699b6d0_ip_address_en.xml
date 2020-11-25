@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="ip_address" label="IP address" language="en" table="var__m_sys_hub_action_output_04759de72f602010d632af5df699b6d0">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>ip_address</element>
+            <help/>
+            <hint/>
+            <label>IP address</label>
+            <language>en</language>
+            <name>var__m_sys_hub_action_output_04759de72f602010d632af5df699b6d0</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2020-11-24 08:12:04</sys_created_on>
+            <sys_id>06eb9e272f242010d632af5df699b6cc</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>IP address</sys_name>
+            <sys_package display_value="IPInfo Spoke" source="x_535326_ipinfo_sp">025215a72f602010d632af5df699b645</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="IPInfo Spoke">025215a72f602010d632af5df699b645</sys_scope>
+            <sys_update_name>sys_documentation_var__m_sys_hub_action_output_04759de72f602010d632af5df699b6d0_ip_address_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2020-11-24 08:12:04</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
